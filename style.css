@@ -1,0 +1,28 @@
+* {
+	font-family: arial;
+}
+
+img {
+	max-width: 200px;
+	float: right;
+	margin: 15px;
+}
+p {
+	text-align: justify;
+	padding: 15px;
+	margin: 0px;
+}
+h1 {
+	text-align: center;
+	padding: 15px 0px 0px;
+	margin: 0px;
+}
+section {
+	max-width: 700px;
+	margin: auto;
+	background-color: #F00;
+}
+body {
+	background-color: #300;
+	margin: 0px;
+}
